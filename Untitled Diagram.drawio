@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T19:09:43.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.279" etag="3m2THdfQK12c1rW_XO_p" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T19:38:16.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.279" etag="VVm190-vm09zgbgVhlTR" version="14.7.4" type="github">
   <diagram id="AIzQV7zUeaNafmBLSvh0" name="Page-1">
     <mxGraphModel dx="2475" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -397,7 +397,7 @@
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pw6W-h8T3FxFi5064eeH-2" value="Research" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="10" width="180" height="160" as="geometry" />
+          <mxGeometry x="-320" y="10" width="180" height="200" as="geometry" />
         </mxCell>
         <mxCell id="pw6W-h8T3FxFi5064eeH-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pw6W-h8T3FxFi5064eeH-2">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -454,6 +454,18 @@
               <mxPoint x="570" y="890" />
               <mxPoint x="-380" y="890" />
               <mxPoint x="-380" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pw6W-h8T3FxFi5064eeH-19" value="Funding" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="165" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pw6W-h8T3FxFi5064eeH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xS_lr7cDpIve7zk9qNYF-120">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="240" />
+              <mxPoint x="-340" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
